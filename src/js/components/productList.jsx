@@ -3,8 +3,6 @@ import React, { useState, useEffect, Suspense } from 'react';
 
 import { getProducts } from "../dataSource/products";
 
-import
-
 
 export default function ProductList(props) {
 

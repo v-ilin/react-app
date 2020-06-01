@@ -131,5 +131,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^1.12.0"
   }
 }
